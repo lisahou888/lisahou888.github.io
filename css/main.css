@@ -43,5 +43,5 @@ ul.posts li {
 }
 
 img {
-    image-orientation: from-image;
+    transform: rotate(90deg);
 }
